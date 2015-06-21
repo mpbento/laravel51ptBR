@@ -96,9 +96,9 @@ return [
     | Validação de Atributos Customizadas
     |--------------------------------------------------------------------------
     |
-    | As linhas a seguir são usadas para trocar marcadores de atributo
-    | para algo mais amigável ao usuário, como "Endereço de Email"ao invés
-    | de "email". Isto simplesmeste nos ajuda a criar mensagens mais limpas.
+    | The following language lines are used to swap attribute place-holders
+    | with something more reader friendly such as E-Mail Address instead
+    | of "email". This simply helps us make messages a little cleaner.
     |
     */
 

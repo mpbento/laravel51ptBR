@@ -4,12 +4,12 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Paginação
+    | Pagination Language Lines
     |--------------------------------------------------------------------------
     |
-    | As linhas a seguir são utilizadas pelo paginador para construir
-    | os links de paginação. Você está livre para alterá-las 
-    | para melhor utilizar em suas VIEWS.
+    | The following language lines are used by the paginator library to build
+    | the simple pagination links. You are free to change them to anything
+    | you want to customize your views to better match your application.
     |
     */
 
